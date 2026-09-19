@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UIMicro
-- 👀 Sophomore @ Shanghai Jiao Tong University
+- 👀 Ph.D. @ Shanghai Jiao Tong University
 - 🌱 Artificial Intelligence
 - 💞️ @kelly159951
 - 📫 uimicro@outlook.com
